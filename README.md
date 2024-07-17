@@ -2,7 +2,7 @@
 
 ### Steps to Manage Users, Groups, and Access Control
 
-Architecture Diagram
+## Architecture Diagram
 ![Entra ID User, Guest user and Groups](https://github.com/prasadDPR/Microsoft-Azure/assets/121819069/3e6dcd7a-b3b6-4e92-ad3b-1cc8972dcf54)
 
 
